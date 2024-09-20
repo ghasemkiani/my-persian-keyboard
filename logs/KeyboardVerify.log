@@ -1,0 +1,7 @@
+    WARNING: The character ٔ (U+0654) exists in the entry for VK_6, ShiftState 'Shift' of the layout table and is not in the default system code page (1256) of the Persian (Iran) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ۀ (U+06c0) exists in the entry for VK_7, ShiftState 'Shift' of the layout table and is not in the default system code page (1256) of the Persian (Iran) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ی (U+06cc) exists in the entry for VK_D, ShiftState 'Base' of the layout table and is not in the default system code page (1256) of the Persian (Iran) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: ٔ (U+0654) is already defined more than once on the keyboard (on VK_I, ShiftState 'Shift+Ctrl' and VK_6, ShiftState 'Shift').
+    WARNING: ‌ (U+200c) is already defined more than once on the keyboard (on VK_Z, ShiftState 'Shift' and VK_2, ShiftState 'Shift+Ctrl').
+    WARNING: ‍ (U+200d) is already defined more than once on the keyboard (on VK_OEM_4, ShiftState 'Shift' and VK_1, ShiftState 'Shift+Ctrl').
+    WARNING: '|' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
